@@ -1,0 +1,93 @@
+[
+    {
+      "id": "1",
+      "name": "John Doe",
+      "title": "Software Engineer",
+      "address": "123 Main St, Suite 400, San Francisco, CA 94101. The building is located near Union Square, and it's a 10-minute walk from the BART station. The office is on the fourth floor, which has a great view of the city."
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "title": "Project Manager",
+      "address": "456 Elm St, Apt 21B, New York, NY 10001. This apartment is in Midtown Manhattan, close to Times Square. It's a two-bedroom apartment on the 21st floor, with easy access to subway lines and several popular restaurants."
+    },
+    {
+      "id": "3",
+      "name": "Alice Johnson",
+      "title": "UX Designer",
+      "address": "789 Maple Ave, Floor 3, Los Angeles, CA 90001. The office is in the heart of downtown LA, near the Staples Center. The third floor has a spacious layout with modern design, and the building offers amenities like a gym and a rooftop terrace."
+    },
+    {
+      "id": "4",
+      "name": "Michael Brown",
+      "title": "Data Scientist",
+      "address": "321 Oak St, Room 5, Seattle, WA 98101. This office is located in the historic Pioneer Square district, known for its vibrant art scene and coffee shops. Room 5 is part of a shared workspace with state-of-the-art facilities."
+    },
+    {
+      "id": "5",
+      "name": "Emily Davis",
+      "title": "Product Manager",
+      "address": "654 Pine St, Unit 8, Chicago, IL 60601. Situated in the Loop, this office is close to Millennium Park and the Art Institute of Chicago. Unit 8 is on the top floor, providing a panoramic view of the city skyline."
+    },
+    {
+      "id": "6",
+      "name": "William Wilson",
+      "title": "DevOps Engineer",
+      "address": "987 Cedar St, Building 2, Austin, TX 73301. This tech hub is in the vibrant South Congress district, surrounded by music venues and food trucks. Building 2 features open-plan offices with collaborative spaces and a pet-friendly policy."
+    },
+    {
+      "id": "7",
+      "name": "Olivia Martinez",
+      "title": "Marketing Specialist",
+      "address": "135 Birch St, Suite 700, Boston, MA 02101. Located in the Back Bay area, this office is near the Prudential Center and several historical landmarks. Suite 700 is on the seventh floor and includes modern meeting rooms and a kitchen."
+    },
+    {
+      "id": "8",
+      "name": "James Taylor",
+      "title": "QA Engineer",
+      "address": "246 Ash St, Apt 14A, Denver, CO 80201. This apartment is in the Capitol Hill neighborhood, known for its eclectic mix of old and new. Apt 14A is a one-bedroom unit on the 14th floor, with a balcony overlooking the city."
+    },
+    {
+      "id": "9",
+      "name": "Isabella Anderson",
+      "title": "Graphic Designer",
+      "address": "369 Spruce St, Loft 2B, Miami, FL 33101. The loft is located in the trendy Wynwood district, famous for its street art and galleries. Loft 2B is a spacious open-plan unit with high ceilings and large windows for natural light."
+    },
+    {
+      "id": "10",
+      "name": "Ethan Thomas",
+      "title": "Sales Manager",
+      "address": "159 Redwood St, Office 12, Portland, OR 97201. This office is in the Pearl District, close to Powell's Books and a variety of microbreweries. Office 12 is part of a shared co-working space with flexible seating arrangements."
+    },
+    {
+      "id": "11",
+      "name": "Sophia Jackson",
+      "title": "Content Writer",
+      "address": "753 Cherry St, Unit 4, San Diego, CA 92101. Located in the Gaslamp Quarter, this unit is close to the waterfront and the San Diego Convention Center. Unit 4 is a two-bedroom apartment with a modern kitchen and living area."
+    },
+    {
+      "id": "12",
+      "name": "Benjamin White",
+      "title": "Cybersecurity Analyst",
+      "address": "864 Walnut St, Suite 300, Las Vegas, NV 89101. The office is in downtown Las Vegas, near Fremont Street Experience. Suite 300 is on the third floor and includes secure access and a dedicated server room for cybersecurity operations."
+    },
+    {
+      "id": "13",
+      "name": "Mia Harris",
+      "title": "HR Specialist",
+      "address": "975 Palm St, Apt 3B, Atlanta, GA 30301. This apartment is in the Buckhead area, known for its upscale shopping and dining. Apt 3B is a luxury unit on the third floor, featuring a large balcony and walk-in closets."
+    },
+    {
+      "id": "14",
+      "name": "Alexander Martin",
+      "title": "Business Analyst",
+      "address": "543 Maple St, Room 7, Dallas, TX 75201. The office is located in the downtown Arts District, close to the Dallas Museum of Art. Room 7 is a private office with modern furnishings and access to a shared conference room."
+    },
+    {
+      "id": "15",
+      "name": "Charlotte Thompson",
+      "title": "Financial Analyst",
+      "address": "321 Hickory St, Building A, Houston, TX 77001. This office is in the Energy Corridor, surrounded by several Fortune 500 companies. Building A includes state-of-the-art facilities and a cafeteria offering healthy meal options."
+    }
+  ]
+  
