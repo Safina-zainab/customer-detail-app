@@ -34,7 +34,7 @@ body {
 }
 
 .customer-card {
-  padding: 20px;
+  padding: 25px;
   margin-bottom: 5px;
   border-radius: 5px;
   cursor: pointer;
@@ -74,15 +74,15 @@ body {
 
 .photo-grid {
   display: grid;
-  grid-template-columns: repeat(3, 200px);
-  gap: 20px;
+  grid-template-columns: repeat(3, 180px);
+  gap: 25px;
   margin-top: 20px;
   justify-content: center;
 }
 
 .photo-grid img {
-  width: 200px;
-  height: 200px;
+  width: 180px;
+  height: 180px;
   border-radius: 10px;
   object-fit: cover;
 }
