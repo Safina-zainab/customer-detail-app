@@ -13,13 +13,15 @@ const CustomerDetails: React.FC<{ customer: Customer | null }> = ({ customer }) 
   useEffect(() => {
     const fetchPhotos = async () => {
       try {
-        const response = await fetch('https://jsonplaceholder.typicode.com/photos?_limit=9');
+        const randomQuery = Math.random().toString(36).substring(7); 
+        const randomPage = Math.floor(Math.random() * 100) + 1; 
+        const response = await fetch(`https://pixabay.com/api/?key=45257888-c99e557ed01d129c4677b624f&q=plants+trees&image_type=photo&pretty=true&per_page=9&page=${randomPage}&randomQuery=${randomQuery}`);
         const data = await response.json();
-        setPhotos(data.map((photo: any) => photo.url));
+        setPhotos(data.hits.map((photo: any) => photo.webformatURL));
       } catch (error) {
         console.error('Error fetching photos', error);
       }
-    };
+    }
 
     fetchPhotos();
 
