@@ -14,7 +14,7 @@ body {
   background-color: #fff;
   padding: 10px;
   border-right: 1px solid #ddd;
-  height: 100vh;
+  height: 110vh;
   overflow-y: auto;
 }
 
@@ -25,8 +25,6 @@ body {
 .sidebar::-webkit-scrollbar-thumb {
   background-color: black;
 }
-
-
 
 .customer-list {
   display: flex;
