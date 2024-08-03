@@ -41,6 +41,8 @@ const App: React.FC = () => {
   const selectedCustomer = customers.find(customer => customer.id === selectedCustomerId) || null;
 
   return (
+    <>
+      <p style={{ textAlign: 'center' }}>Customer Details App</p>
     <div className="app">
       <div className="sidebar">
         <CustomerList onSelectCustomer={handleSelectCustomer} selectedCustomerId={selectedCustomerId} />
@@ -49,6 +51,7 @@ const App: React.FC = () => {
         <CustomerDetails customer={selectedCustomer} />
       </div>
     </div>
+    </>
   );
 };
 
